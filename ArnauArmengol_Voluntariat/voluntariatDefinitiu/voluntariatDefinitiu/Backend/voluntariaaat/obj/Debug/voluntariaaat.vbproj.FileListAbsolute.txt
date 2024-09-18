@@ -1,0 +1,79 @@
+C:\Users\arnau\source\repos\voluntariaaat\voluntariaaat\bin\Debug\voluntariaaat.exe.config
+C:\Users\arnau\source\repos\voluntariaaat\voluntariaaat\bin\Debug\voluntariaaat.exe
+C:\Users\arnau\source\repos\voluntariaaat\voluntariaaat\bin\Debug\voluntariaaat.pdb
+C:\Users\arnau\source\repos\voluntariaaat\voluntariaaat\bin\Debug\voluntariaaat.xml
+C:\Users\arnau\source\repos\voluntariaaat\voluntariaaat\obj\Debug\voluntariaaat.vbproj.AssemblyReference.cache
+C:\Users\arnau\source\repos\voluntariaaat\voluntariaaat\obj\Debug\voluntariaaat.Form1.resources
+C:\Users\arnau\source\repos\voluntariaaat\voluntariaaat\obj\Debug\voluntariaaat.Resources.resources
+C:\Users\arnau\source\repos\voluntariaaat\voluntariaaat\obj\Debug\voluntariaaat.vbproj.GenerateResource.cache
+C:\Users\arnau\source\repos\voluntariaaat\voluntariaaat\obj\Debug\voluntariaaat.vbproj.CoreCompileInputs.cache
+C:\Users\arnau\source\repos\voluntariaaat\voluntariaaat\obj\Debug\voluntariaaat.exe
+C:\Users\arnau\source\repos\voluntariaaat\voluntariaaat\obj\Debug\voluntariaaat.xml
+C:\Users\arnau\source\repos\voluntariaaat\voluntariaaat\obj\Debug\voluntariaaat.pdb
+C:\Users\arnau\source\repos\voluntariaaat\voluntariaaat\obj\Debug\voluntariaaat.Form3.resources
+C:\Users\arnau\source\repos\voluntariaaat\voluntariaaat\obj\Debug\voluntariaaat.Form4.resources
+C:\Users\arnau\source\repos\voluntariaaat\voluntariaaat\obj\Debug\voluntariaaat.Form5.resources
+C:\Users\arnau\source\repos\voluntariaaat\voluntariaaat\obj\Debug\voluntariaaat.Form6.resources
+C:\Users\arnau\source\repos\voluntariaaat\voluntariaaat\obj\Debug\voluntariaaat.Form2.resources
+C:\Users\arnau\source\repos\voluntariaaat\voluntariaaat\obj\Debug\voluntariaaat.Module1.resources
+C:\Users\arnau\source\repos\voluntariaaat - copia\voluntariaaat\bin\Debug\voluntariaaat.exe.config
+C:\Users\arnau\source\repos\voluntariaaat - copia\voluntariaaat\bin\Debug\voluntariaaat.exe
+C:\Users\arnau\source\repos\voluntariaaat - copia\voluntariaaat\bin\Debug\voluntariaaat.pdb
+C:\Users\arnau\source\repos\voluntariaaat - copia\voluntariaaat\bin\Debug\voluntariaaat.xml
+C:\Users\arnau\source\repos\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.vbproj.AssemblyReference.cache
+C:\Users\arnau\source\repos\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.FormInserirProjecte.resources
+C:\Users\arnau\source\repos\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.FormInserirDIsponibilitatProjecte.resources
+C:\Users\arnau\source\repos\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.FormEliminarProjecte.resources
+C:\Users\arnau\source\repos\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.FormConsultarProjecte.resources
+C:\Users\arnau\source\repos\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.FormModificiarProjecte.resources
+C:\Users\arnau\source\repos\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.FormInserirEntitatICOntacte.resources
+C:\Users\arnau\source\repos\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.Module1.resources
+C:\Users\arnau\source\repos\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.Resources.resources
+C:\Users\arnau\source\repos\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.vbproj.GenerateResource.cache
+C:\Users\arnau\source\repos\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.vbproj.CoreCompileInputs.cache
+C:\Users\arnau\source\repos\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.exe
+C:\Users\arnau\source\repos\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.xml
+C:\Users\arnau\source\repos\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.pdb
+C:\Users\USER\Desktop\voluntariaaat_-_copia\voluntariaaat - copia\voluntariaaat\bin\Debug\voluntariaaat.exe.config
+C:\Users\USER\Desktop\voluntariaaat_-_copia\voluntariaaat - copia\voluntariaaat\bin\Debug\voluntariaaat.exe
+C:\Users\USER\Desktop\voluntariaaat_-_copia\voluntariaaat - copia\voluntariaaat\bin\Debug\voluntariaaat.pdb
+C:\Users\USER\Desktop\voluntariaaat_-_copia\voluntariaaat - copia\voluntariaaat\bin\Debug\voluntariaaat.xml
+C:\Users\USER\Desktop\voluntariaaat_-_copia\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.vbproj.AssemblyReference.cache
+C:\Users\USER\Desktop\voluntariaaat_-_copia\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.FormINICI.resources
+C:\Users\USER\Desktop\voluntariaaat_-_copia\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.FormInserirProjecte.resources
+C:\Users\USER\Desktop\voluntariaaat_-_copia\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.FormInserirDIsponibilitatProjecte.resources
+C:\Users\USER\Desktop\voluntariaaat_-_copia\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.FormEliminarProjecte.resources
+C:\Users\USER\Desktop\voluntariaaat_-_copia\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.FormConsultarProjecte.resources
+C:\Users\USER\Desktop\voluntariaaat_-_copia\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.FormModificiarProjecte.resources
+C:\Users\USER\Desktop\voluntariaaat_-_copia\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.FormInserirEntitatICOntacte.resources
+C:\Users\USER\Desktop\voluntariaaat_-_copia\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.FormVoluntaris.resources
+C:\Users\USER\Desktop\voluntariaaat_-_copia\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.FormVoluntaris2.resources
+C:\Users\USER\Desktop\voluntariaaat_-_copia\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.Module1.resources
+C:\Users\USER\Desktop\voluntariaaat_-_copia\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.Resources.resources
+C:\Users\USER\Desktop\voluntariaaat_-_copia\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.vbproj.GenerateResource.cache
+C:\Users\USER\Desktop\voluntariaaat_-_copia\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\voluntariaaat_-_copia\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.exe
+C:\Users\USER\Desktop\voluntariaaat_-_copia\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.xml
+C:\Users\USER\Desktop\voluntariaaat_-_copia\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.pdb
+C:\Users\arnau\source\repos\voluntariatAjuntat\voluntariaaat - copia\voluntariaaat\bin\Debug\voluntariaaat.exe.config
+C:\Users\arnau\source\repos\voluntariatAjuntat\voluntariaaat - copia\voluntariaaat\bin\Debug\voluntariaaat.exe
+C:\Users\arnau\source\repos\voluntariatAjuntat\voluntariaaat - copia\voluntariaaat\bin\Debug\voluntariaaat.pdb
+C:\Users\arnau\source\repos\voluntariatAjuntat\voluntariaaat - copia\voluntariaaat\bin\Debug\voluntariaaat.xml
+C:\Users\arnau\source\repos\voluntariatAjuntat\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.vbproj.AssemblyReference.cache
+C:\Users\arnau\source\repos\voluntariatAjuntat\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.FormINICI.resources
+C:\Users\arnau\source\repos\voluntariatAjuntat\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.FormInserirProjecte.resources
+C:\Users\arnau\source\repos\voluntariatAjuntat\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.FormInserirDIsponibilitatProjecte.resources
+C:\Users\arnau\source\repos\voluntariatAjuntat\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.FormEliminarProjecte.resources
+C:\Users\arnau\source\repos\voluntariatAjuntat\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.FormConsultarProjecte.resources
+C:\Users\arnau\source\repos\voluntariatAjuntat\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.FormModificiarProjecte.resources
+C:\Users\arnau\source\repos\voluntariatAjuntat\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.FormInserirEntitatICOntacte.resources
+C:\Users\arnau\source\repos\voluntariatAjuntat\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.FormVoluntaris.resources
+C:\Users\arnau\source\repos\voluntariatAjuntat\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.FormVoluntaris2.resources
+C:\Users\arnau\source\repos\voluntariatAjuntat\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.Module1.resources
+C:\Users\arnau\source\repos\voluntariatAjuntat\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.Resources.resources
+C:\Users\arnau\source\repos\voluntariatAjuntat\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.vbproj.GenerateResource.cache
+C:\Users\arnau\source\repos\voluntariatAjuntat\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.vbproj.CoreCompileInputs.cache
+C:\Users\arnau\source\repos\voluntariatAjuntat\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.exe
+C:\Users\arnau\source\repos\voluntariatAjuntat\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.xml
+C:\Users\arnau\source\repos\voluntariatAjuntat\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.pdb
+C:\Users\arnau\source\repos\voluntariatAjuntat\voluntariaaat - copia\voluntariaaat\obj\Debug\voluntariaaat.Form1.resources

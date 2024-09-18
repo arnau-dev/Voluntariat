@@ -1,0 +1,291 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+voluntariaaat
+</name>
+</assembly>
+<members>
+<member name="T:voluntariaaat.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:voluntariaaat.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:voluntariaaat.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:voluntariaaat.My.Resources.Resources.flecha_avanzar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:voluntariaaat.My.Resources.Resources.flechaatras">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:voluntariaaat.My.Resources.Resources.MenuDisponibilitat">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:voluntariaaat.My.Resources.Resources.MenuProjecte">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:voluntariaaat.voluntariat_v1DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:voluntariaaat.voluntariat_v1DataSet.AmbitDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:voluntariaaat.voluntariat_v1DataSet.Ambit_VoluntariDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:voluntariaaat.voluntariat_v1DataSet.Assignacio_voluntari_projecteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:voluntariaaat.voluntariat_v1DataSet.ContacteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:voluntariaaat.voluntariat_v1DataSet.DisponibilitatDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:voluntariaaat.voluntariat_v1DataSet.EntitatDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:voluntariaaat.voluntariat_v1DataSet.EstatProjecteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:voluntariaaat.voluntariat_v1DataSet.FormacioDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:voluntariaaat.voluntariat_v1DataSet.ProjecteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:voluntariaaat.voluntariat_v1DataSet.VoluntariDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:voluntariaaat.voluntariat_v1DataSet.AmbitRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:voluntariaaat.voluntariat_v1DataSet.Ambit_VoluntariRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:voluntariaaat.voluntariat_v1DataSet.Assignacio_voluntari_projecteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:voluntariaaat.voluntariat_v1DataSet.ContacteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:voluntariaaat.voluntariat_v1DataSet.DisponibilitatRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:voluntariaaat.voluntariat_v1DataSet.EntitatRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:voluntariaaat.voluntariat_v1DataSet.EstatProjecteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:voluntariaaat.voluntariat_v1DataSet.FormacioRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:voluntariaaat.voluntariat_v1DataSet.ProjecteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:voluntariaaat.voluntariat_v1DataSet.VoluntariRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:voluntariaaat.voluntariat_v1DataSet.AmbitRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:voluntariaaat.voluntariat_v1DataSet.Ambit_VoluntariRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:voluntariaaat.voluntariat_v1DataSet.Assignacio_voluntari_projecteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:voluntariaaat.voluntariat_v1DataSet.ContacteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:voluntariaaat.voluntariat_v1DataSet.DisponibilitatRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:voluntariaaat.voluntariat_v1DataSet.EntitatRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:voluntariaaat.voluntariat_v1DataSet.EstatProjecteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:voluntariaaat.voluntariat_v1DataSet.FormacioRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:voluntariaaat.voluntariat_v1DataSet.ProjecteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:voluntariaaat.voluntariat_v1DataSet.VoluntariRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:voluntariaaat.voluntariat_v1DataSetTableAdapters.AmbitTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:voluntariaaat.voluntariat_v1DataSetTableAdapters.Ambit_VoluntariTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:voluntariaaat.voluntariat_v1DataSetTableAdapters.Assignacio_voluntari_projecteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:voluntariaaat.voluntariat_v1DataSetTableAdapters.ContacteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:voluntariaaat.voluntariat_v1DataSetTableAdapters.DisponibilitatTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:voluntariaaat.voluntariat_v1DataSetTableAdapters.EntitatTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:voluntariaaat.voluntariat_v1DataSetTableAdapters.EstatProjecteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:voluntariaaat.voluntariat_v1DataSetTableAdapters.FormacioTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:voluntariaaat.voluntariat_v1DataSetTableAdapters.ProjecteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:voluntariaaat.voluntariat_v1DataSetTableAdapters.VoluntariTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:voluntariaaat.voluntariat_v1DataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:voluntariaaat.voluntariat_v1DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(voluntariaaat.voluntariat_v1DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:voluntariaaat.voluntariat_v1DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(voluntariaaat.voluntariat_v1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:voluntariaaat.voluntariat_v1DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(voluntariaaat.voluntariat_v1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:voluntariaaat.voluntariat_v1DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:voluntariaaat.voluntariat_v1DataSetTableAdapters.TableAdapterManager.UpdateAll(voluntariaaat.voluntariat_v1DataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:voluntariaaat.voluntariat_v1DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:voluntariaaat.voluntariat_v1DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
